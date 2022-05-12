@@ -1,0 +1,29 @@
+PODS:
+  - 1PasswordExtension (1.7)
+  - Alamofire (3.1.4)
+  - AlamofireImage (2.2.0):
+    - Alamofire (~> 3.1)
+  - KDEAudioPlayer (0.4.3)
+  - Soundcloud (0.5.2):
+    - 1PasswordExtension (~> 1.5)
+    - UICKeyChainStore (~> 2.0.6)
+  - SWXMLHash (2.0.2)
+  - UICKeyChainStore (2.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - KDEAudioPlayer
+  - Soundcloud
+  - SWXMLHash (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  1PasswordExtension: a22573ad528dd63bd79c1f3b3813b17c2f86b91b
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  AlamofireImage: bedb8a4bdfb98eda81ba12952fba6e9e90420922
+  KDEAudioPlayer: bb0e7fa72dceb5b8b611dd82e957c3bf19208bc0
+  Soundcloud: 6006b34840d1abb9be7029009ee4725a61473206
+  SWXMLHash: 9e6bd7db2e8275eaf3d2082265623d6e749e169d
+  UICKeyChainStore: 696cd35083f7c8fb5e201d909b7e6aea6b478575
+
+COCOAPODS: 0.39.0
